@@ -1,0 +1,23 @@
+# Python Virtual Environment
+venv/
+env/
+.venv/
+__pycache__/
+*.pyc
+
+# Node Modules (if using npm)
+node_modules/
+
+# VS Code settings
+.vscode/
+
+# OS specific files
+Thumbs.db
+.DS_Store
+# Next.js build output
+.next/
+out/
+
+# Local environment files
+.env*.local
+.env
