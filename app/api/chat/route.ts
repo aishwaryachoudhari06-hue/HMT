@@ -1,3 +1,4 @@
+export const maxDuration = 60; // Allows the function to run up to 60 seconds
 import { NextResponse } from "next/server";
 import { buildSystemPrompt, flagConflicts, sanitizeProfile } from "@/lib/prompt";
 
